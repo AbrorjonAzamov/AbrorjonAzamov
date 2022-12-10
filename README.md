@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 ---> -->
 
 ### hey there 
-<a href="https://www.instagram.com/abrorjon_03__m/">
+<a target="_blank" href="https://www.instagram.com/abrorjon_03__m/">
   <img align="left" alt="Abrorjon Azamov" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="www.linkedin.com/in/abrorjon-azamov">
+<a target="_blank" href="www.linkedin.com/in/abrorjon-azamov">
   <img align="left" alt="Abrorjon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
